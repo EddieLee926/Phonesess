@@ -1,0 +1,479 @@
+{
+    "name": "flare",
+    "children": [
+        {
+            "name": "analytics",
+            "children": [
+                {
+                    "name": "cluster",
+                    "children": [
+                        {
+                            "name": "喜歡",
+                            "size": 2
+                        },
+                        {
+                            "name": "追劇",
+                            "size": 2
+                        },
+                        {
+                            "name": "nits",
+                            "size": 2
+                        },
+                        {
+                            "name": "峰值",
+                            "size": 2
+                        },
+                        {
+                            "name": "首度",
+                            "size": 2
+                        },
+                        {
+                            "name": "導入",
+                            "size": 2
+                        },
+                        {
+                            "name": "安卓",
+                            "size": 2
+                        },
+                        {
+                            "name": "廣角",
+                            "size": 2
+                        },
+                        {
+                            "name": "實測",
+                            "size": 2
+                        },
+                        {
+                            "name": "環境",
+                            "size": 2
+                        },
+                        {
+                            "name": "RAW",
+                            "size": 2
+                        },
+                        {
+                            "name": "格式片",
+                            "size": 2
+                        },
+                        {
+                            "name": "視窗",
+                            "size": 2
+                        },
+                        {
+                            "name": "深色",
+                            "size": 2
+                        },
+                        {
+                            "name": "掛繩",
+                            "size": 2
+                        },
+                        {
+                            "name": "殼",
+                            "size": 2
+                        },
+                        {
+                            "name": "網路",
+                            "size": 2
+                        },
+                        {
+                            "name": "變差",
+                            "size": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "graph",
+                    "children": [
+                        {
+                            "name": "動態島",
+                            "size": 38
+                        },
+                        {
+                            "name": "紫色",
+                            "size": 20
+                        },
+                        {
+                            "name": "新款",
+                            "size": 19
+                        },
+                        {
+                            "name": "動態",
+                            "size": 3
+                        },
+                        {
+                            "name": "東西",
+                            "size": 3
+                        },
+                        {
+                            "name": "模式",
+                            "size": 3
+                        },
+                        {
+                            "name": "重量",
+                            "size": 3
+                        },
+                        {
+                            "name": "主畫面",
+                            "size": 3
+                        },
+                        {
+                            "name": "開賣",
+                            "size": 2
+                        },
+                        {
+                            "name": "預購",
+                            "size": 2
+                        },
+                        {
+                            "name": "入手",
+                            "size": 2
+                        },
+                        {
+                            "name": "全新",
+                            "size": 2
+                        },
+                        {
+                            "name": "封面",
+                            "size": 2
+                        },
+                        {
+                            "name": "圖示",
+                            "size": 2
+                        },
+                        {
+                            "name": "環保",
+                            "size": 2
+                        },
+                        {
+                            "name": "運送",
+                            "size": 2
+                        },
+                        {
+                            "name": "選擇",
+                            "size": 2
+                        },
+                        {
+                            "name": "充電線",
+                            "size": 2
+                        },
+                        {
+                            "name": "退卡",
+                            "size": 2
+                        },
+                        {
+                            "name": "針明",
+                            "size": 2
+                        },
+                        {
+                            "name": "文件",
+                            "size": 2
+                        },
+                        {
+                            "name": "保留",
+                            "size": 2
+                        },
+                        {
+                            "name": "整體",
+                            "size": 2
+                        },
+                        {
+                            "name": "背面",
+                            "size": 2
+                        },
+                        {
+                            "name": "霧面",
+                            "size": 2
+                        },
+                        {
+                            "name": "質感",
+                            "size": 2
+                        },
+                        {
+                            "name": "玻璃",
+                            "size": 2
+                        },
+                        {
+                            "name": "元件",
+                            "size": 2
+                        },
+                        {
+                            "name": "背蓋",
+                            "size": 2
+                        },
+                        {
+                            "name": "款式",
+                            "size": 2
+                        },
+                        {
+                            "name": "搶手",
+                            "size": 2
+                        },
+                        {
+                            "name": "市場",
+                            "size": 2
+                        },
+                        {
+                            "name": "特色",
+                            "size": 2
+                        },
+                        {
+                            "name": "註意",
+                            "size": 2
+                        },
+                        {
+                            "name": "完整",
+                            "size": 2
+                        },
+                        {
+                            "name": "持續",
+                            "size": 2
+                        },
+                        {
+                            "name": "視覺",
+                            "size": 2
+                        },
+                        {
+                            "name": "支援",
+                            "size": 2
+                        },
+                        {
+                            "name": "瀏海",
+                            "size": 2
+                        },
+                        {
+                            "name": "適合",
+                            "size": 2
+                        },
+                        {
+                            "name": "雙手",
+                            "size": 2
+                        },
+                        {
+                            "name": "APP",
+                            "size": 2
+                        },
+                        {
+                            "name": "影片",
+                            "size": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "optimization",
+                    "children": [
+                        {
+                            "name": "新",
+                            "size": 5
+                        },
+                        {
+                            "name": "習慣",
+                            "size": 5
+                        },
+                        {
+                            "name": "通知",
+                            "size": 5
+                        },
+                        {
+                            "name": "接受",
+                            "size": 5
+                        },
+                        {
+                            "name": "風格",
+                            "size": 4
+                        },
+                        {
+                            "name": "擔心",
+                            "size": 4
+                        },
+                        {
+                            "name": "體驗",
+                            "size": 4
+                        },
+                        {
+                            "name": "影響",
+                            "size": 4
+                        },
+                        {
+                            "name": "缺點",
+                            "size": 4
+                        },
+                        {
+                            "name": "樣子",
+                            "size": 4
+                        },
+                        {
+                            "name": "Lightning",
+                            "size": 3
+                        },
+                        {
+                            "name": "貼紙",
+                            "size": 3
+                        },
+                        {
+                            "name": "正面",
+                            "size": 3
+                        },
+                        {
+                            "name": "提供",
+                            "size": 3
+                        },
+                        {
+                            "name": "尺寸",
+                            "size": 3
+                        },
+                        {
+                            "name": "顏色",
+                            "size": 3
+                        },
+                        {
+                            "name": "深紫色",
+                            "size": 3
+                        },
+                        {
+                            "name": "確實",
+                            "size": 3
+                        },
+                        {
+                            "name": "厲害",
+                            "size": 3
+                        },
+                        {
+                            "name": "測試",
+                            "size": 3
+                        },
+                        {
+                            "name": "配置",
+                            "size": 3
+                        },
+                        {
+                            "name": "位置",
+                            "size": 3
+                        },
+                        {
+                            "name": "游戲",
+                            "size": 3
+                        },
+                        {
+                            "name": "技術",
+                            "size": 3
+                        },
+                        {
+                            "name": "色彩",
+                            "size": 3
+                        },
+                        {
+                            "name": "HDR",
+                            "size": 3
+                        },
+                        {
+                            "name": "主鏡頭",
+                            "size": 3
+                        },
+                        {
+                            "name": "檔案",
+                            "size": 3
+                        },
+                        {
+                            "name": "相機",
+                            "size": 3
+                        },
+                        {
+                            "name": "變焦",
+                            "size": 3
+                        },
+                        {
+                            "name": "電量",
+                            "size": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "display",
+            "children": [
+                {
+                    "name": "設計",
+                    "size": 12
+                },
+                {
+                    "name": "鏡頭",
+                    "size": 11
+                },
+                {
+                    "name": "蘋果",
+                    "size": 10
+                },
+                {
+                    "name": "畫素",
+                    "size": 10
+                },
+                {
+                    "name": "畫面",
+                    "size": 8
+                },
+                {
+                    "name": "感覺",
+                    "size": 7
+                },
+                {
+                    "name": "顯示",
+                    "size": 7
+                },
+                {
+                    "name": "系列",
+                    "size": 6
+                },
+                {
+                    "name": "操作",
+                    "size": 6
+                }
+            ]
+        },
+        {
+            "name": "physics",
+            "children": [
+                {
+                    "name": "高達",
+                    "size": 2
+                },
+                {
+                    "name": "容量",
+                    "size": 2
+                },
+                {
+                    "name": "優化",
+                    "size": 2
+                },
+                {
+                    "name": "差少",
+                    "size": 2
+                },
+                {
+                    "name": "聲音",
+                    "size": 2
+                },
+                {
+                    "name": "資訊",
+                    "size": 2
+                },
+                {
+                    "name": "模樣",
+                    "size": 2
+                },
+                {
+                    "name": "控制",
+                    "size": 2
+                },
+                {
+                    "name": "吸睛",
+                    "size": 18
+                },
+                {
+                    "name": "螢幕",
+                    "size": 18
+                }
+            ]
+        }
+    ]
+}

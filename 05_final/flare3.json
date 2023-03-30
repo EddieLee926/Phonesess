@@ -1,0 +1,459 @@
+{
+    "name": "flare",
+    "children": [
+        {
+            "name": "analytics",
+            "children": [
+                {
+                    "name": "cluster",
+                    "children": [
+                        {
+                            "name": "攝影",
+                            "size": 40
+                        },
+                        {
+                            "name": "演算法",
+                            "size": 23
+                        },
+                        {
+                            "name": "鏡頭",
+                            "size": 23
+                        },
+                        {
+                            "name": "相機",
+                            "size": 5
+                        },
+                        {
+                            "name": "購買",
+                            "size": 5
+                        },
+                        {
+                            "name": "選擇",
+                            "size": 5
+                        },
+                        {
+                            "name": "S22Ultra",
+                            "size": 5
+                        },
+                        {
+                            "name": "招牌",
+                            "size": 5
+                        },
+                        {
+                            "name": "變焦",
+                            "size": 5
+                        },
+                        {
+                            "name": "發熱",
+                            "size": 4
+                        },
+                        {
+                            "name": "系列",
+                            "size": 4
+                        },
+                        {
+                            "name": "優秀",
+                            "size": 4
+                        },
+                        {
+                            "name": "美",
+                            "size": 4
+                        },
+                        {
+                            "name": "保留",
+                            "size": 4
+                        },
+                        {
+                            "name": "輪廓",
+                            "size": 4
+                        },
+                        {
+                            "name": "雜訊",
+                            "size": 4
+                        },
+                        {
+                            "name": "臉部",
+                            "size": 4
+                        },
+                        {
+                            "name": "Find x5 Pro",
+                            "size": 4
+                        },
+                        {
+                            "name": "感謝",
+                            "size": 4
+                        },
+                        {
+                            "name": "執行",
+                            "size": 4
+                        },
+                        {
+                            "name": "開啟",
+                            "size": 4
+                        },
+                        {
+                            "name": "錄影",
+                            "size": 4
+                        },
+                        {
+                            "name": "解釋",
+                            "size": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "graph",
+                    "children": [
+                        {
+                            "name": "拍攝",
+                            "size": 17
+                        },
+                        {
+                            "name": "螢幕",
+                            "size": 17
+                        },
+                        {
+                            "name": "相簿",
+                            "size": 12
+                        },
+                        {
+                            "name": "模糊",
+                            "size": 12
+                        },
+                        {
+                            "name": "畫面",
+                            "size": 12
+                        },
+                        {
+                            "name": "廣告",
+                            "size": 4
+                        },
+                        {
+                            "name": "效果",
+                            "size": 4
+                        },
+                        {
+                            "name": "情況",
+                            "size": 4
+                        },
+                        {
+                            "name": "曲面",
+                            "size": 4
+                        },
+                        {
+                            "name": "題目",
+                            "size": 4
+                        },
+                        {
+                            "name": "音量",
+                            "size": 4
+                        },
+                        {
+                            "name": "資料",
+                            "size": 4
+                        },
+                        {
+                            "name": "元件",
+                            "size": 4
+                        },
+                        {
+                            "name": "廣角",
+                            "size": 4
+                        },
+                        {
+                            "name": "顯示",
+                            "size": 4
+                        },
+                        {
+                            "name": "修正",
+                            "size": 3
+                        },
+                        {
+                            "name": "電池",
+                            "size": 3
+                        },
+                        {
+                            "name": "改善",
+                            "size": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "optimization",
+                    "children": [
+                        {
+                            "name": "修複",
+                            "size": 11
+                        },
+                        {
+                            "name": "系統",
+                            "size": 11
+                        },
+                        {
+                            "name": "動態",
+                            "size": 11
+                        },
+                        {
+                            "name": "硬體",
+                            "size": 11
+                        },
+                        {
+                            "name": "游戲",
+                            "size": 9
+                        },
+                        {
+                            "name": "分享",
+                            "size": 9
+                        },
+                        {
+                            "name": "喜歡",
+                            "size": 9
+                        },
+                        {
+                            "name": "買",
+                            "size": 8
+                        },
+                        {
+                            "name": "差異",
+                            "size": 8
+                        },
+                        {
+                            "name": "智慧",
+                            "size": 3
+                        },
+                        {
+                            "name": "HDR",
+                            "size": 3
+                        },
+                        {
+                            "name": "平衡",
+                            "size": 3
+                        },
+                        {
+                            "name": "調整",
+                            "size": 3
+                        },
+                        {
+                            "name": "確實",
+                            "size": 3
+                        },
+                        {
+                            "name": "廠商",
+                            "size": 3
+                        },
+                        {
+                            "name": "設計",
+                            "size": 3
+                        },
+                        {
+                            "name": "蘋果",
+                            "size": 3
+                        },
+                        {
+                            "name": "完美",
+                            "size": 3
+                        },
+                        {
+                            "name": "符合",
+                            "size": 3
+                        },
+                        {
+                            "name": "新機",
+                            "size": 3
+                        },
+                        {
+                            "name": "機身",
+                            "size": 3
+                        },
+                        {
+                            "name": "強",
+                            "size": 3
+                        },
+                        {
+                            "name": "計算",
+                            "size": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "display",
+            "children": [
+                {
+                    "name": "軟體",
+                    "size": 8
+                },
+                {
+                    "name": "條件",
+                    "size": 8
+                },
+                {
+                    "name": "玩",
+                    "size": 8
+                },
+                {
+                    "name": "模組",
+                    "size": 8
+                },
+                {
+                    "name": "語言",
+                    "size": 8
+                },
+                {
+                    "name": "清晰",
+                    "size": 7
+                },
+                {
+                    "name": "類似",
+                    "size": 7
+                },
+                {
+                    "name": "優化",
+                    "size": 7
+                },
+                {
+                    "name": "測試",
+                    "size": 7
+                },
+                {
+                    "name": "細節",
+                    "size": 7
+                },
+                {
+                    "name": "價格",
+                    "size": 7
+                },
+                {
+                    "name": "整體",
+                    "size": 7
+                },
+                {
+                    "name": "市場",
+                    "size": 7
+                },
+                {
+                    "name": "顏色",
+                    "size": 7
+                },
+                {
+                    "name": "關係",
+                    "size": 6
+                },
+                {
+                    "name": "畫質",
+                    "size": 6
+                },
+                {
+                    "name": "模式",
+                    "size": 3
+                },
+                {
+                    "name": "提升",
+                    "size": 3
+                },
+                {
+                    "name": "Dxomark",
+                    "size": 3
+                },
+                {
+                    "name": "模擬",
+                    "size": 3
+                },
+                {
+                    "name": "樣子",
+                    "size": 3
+                },
+                {
+                    "name": "亮度",
+                    "size": 3
+                },
+                {
+                    "name": "支援",
+                    "size": 3
+                },
+                {
+                    "name": "重量",
+                    "size": 3
+                },
+                {
+                    "name": "預設",
+                    "size": 3
+                },
+                {
+                    "name": "數位",
+                    "size": 3
+                },
+                {
+                    "name": "電影",
+                    "size": 3
+                },
+                {
+                    "name": "複製",
+                    "size": 3
+                },
+                {
+                    "name": "修改",
+                    "size": 3
+                },
+                {
+                    "name": "溫度",
+                    "size": 3
+                },
+                {
+                    "name": "游玩",
+                    "size": 3
+                }
+            ]
+        },
+        {
+            "name": "physics",
+            "children": [
+                {
+                    "name": "完整",
+                    "size": 6
+                },
+                {
+                    "name": "服務",
+                    "size": 6
+                },
+                {
+                    "name": "缺點",
+                    "size": 6
+                },
+                {
+                    "name": "位置",
+                    "size": 6
+                },
+                {
+                    "name": "發生",
+                    "size": 6
+                },
+                {
+                    "name": "狀況",
+                    "size": 6
+                },
+                {
+                    "name": "靜態",
+                    "size": 6
+                },
+                {
+                    "name": "學習",
+                    "size": 6
+                },
+                {
+                    "name": "規格",
+                    "size": 6
+                },
+                {
+                    "name": "體驗",
+                    "size": 5
+                },
+                {
+                    "name": "觀察",
+                    "size": 5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,587 @@
+{
+    "name": "flare",
+    "children": [
+        {
+            "name": "analytics",
+            "children": [
+                {
+                    "name": "cluster",
+                    "children": [
+                        {
+                            "name": "亮度",
+                            "size": 13
+                        },
+                        {
+                            "name": "MariSiliconX",
+                            "size": 12
+                        },
+                        {
+                            "name": "HDR",
+                            "size": 12
+                        },
+                        {
+                            "name": "模組",
+                            "size": 12
+                        },
+                        {
+                            "name": "狀況",
+                            "size": 11
+                        },
+                        {
+                            "name": "畫質",
+                            "size": 11
+                        },
+                        {
+                            "name": "細節",
+                            "size": 10
+                        },
+                        {
+                            "name": "差異",
+                            "size": 10
+                        },
+                        {
+                            "name": "整體",
+                            "size": 10
+                        },
+                        {
+                            "name": "畫面",
+                            "size": 10
+                        },
+                        {
+                            "name": "朋友",
+                            "size": 10
+                        },
+                        {
+                            "name": "配置",
+                            "size": 10
+                        },
+                        {
+                            "name": "修正",
+                            "size": 10
+                        },
+                        {
+                            "name": "搭配",
+                            "size": 9
+                        },
+                        {
+                            "name": "臉部",
+                            "size": 3
+                        },
+                        {
+                            "name": "風格",
+                            "size": 3
+                        },
+                        {
+                            "name": "熱鍛",
+                            "size": 3
+                        },
+                        {
+                            "name": "分鐘",
+                            "size": 3
+                        },
+                        {
+                            "name": "Logo",
+                            "size": 3
+                        },
+                        {
+                            "name": "左側",
+                            "size": 3
+                        },
+                        {
+                            "name": "輔助",
+                            "size": 3
+                        },
+                        {
+                            "name": "降低",
+                            "size": 3
+                        },
+                        {
+                            "name": "保留",
+                            "size": 3
+                        },
+                        {
+                            "name": "確實",
+                            "size": 3
+                        },
+                        {
+                            "name": "速度",
+                            "size": 3
+                        },
+                        {
+                            "name": "改變",
+                            "size": 3
+                        },
+                        {
+                            "name": "類似",
+                            "size": 3
+                        },
+                        {
+                            "name": "側面",
+                            "size": 3
+                        },
+                        {
+                            "name": "鏡面",
+                            "size": 3
+                        },
+                        {
+                            "name": "狀態",
+                            "size": 3
+                        },
+                        {
+                            "name": "完整",
+                            "size": 3
+                        },
+                        {
+                            "name": "引擎",
+                            "size": 3
+                        },
+                        {
+                            "name": "參考",
+                            "size": 3
+                        },
+                        {
+                            "name": "組合",
+                            "size": 3
+                        },
+                        {
+                            "name": "增強",
+                            "size": 3
+                        },
+                        {
+                            "name": "GT",
+                            "size": 3
+                        },
+                        {
+                            "name": "美顏",
+                            "size": 3
+                        },
+                        {
+                            "name": "亮部",
+                            "size": 3
+                        },
+                        {
+                            "name": "髮絲",
+                            "size": 3
+                        },
+                        {
+                            "name": "陰影",
+                            "size": 3
+                        },
+                        {
+                            "name": "微震",
+                            "size": 3
+                        },
+                        {
+                            "name": "暗部",
+                            "size": 3
+                        },
+                        {
+                            "name": "窄框",
+                            "size": 3
+                        },
+                        {
+                            "name": "信義區",
+                            "size": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "graph",
+                    "children": [
+                        {
+                            "name": "模式",
+                            "size": 16
+                        },
+                        {
+                            "name": "晶片",
+                            "size": 14
+                        },
+                        {
+                            "name": "畫素",
+                            "size": 14
+                        },
+                        {
+                            "name": "雙機",
+                            "size": 14
+                        },
+                        {
+                            "name": "體驗",
+                            "size": 13
+                        },
+                        {
+                            "name": "相機",
+                            "size": 13
+                        },
+                        {
+                            "name": "背蓋",
+                            "size": 13
+                        },
+                        {
+                            "name": "拍攝",
+                            "size": 13
+                        },
+                        {
+                            "name": "升級",
+                            "size": 9
+                        },
+                        {
+                            "name": "解析度",
+                            "size": 9
+                        },
+                        {
+                            "name": "天璣",
+                            "size": 9
+                        },
+                        {
+                            "name": "喜歡",
+                            "size": 9
+                        },
+                        {
+                            "name": "調整",
+                            "size": 8
+                        },
+                        {
+                            "name": "色彩",
+                            "size": 8
+                        },
+                        {
+                            "name": "realmeGTNeo",
+                            "size": 8
+                        },
+                        {
+                            "name": "系統",
+                            "size": 7
+                        },
+                        {
+                            "name": "代",
+                            "size": 7
+                        },
+                        {
+                            "name": "尺寸",
+                            "size": 7
+                        },
+                        {
+                            "name": "FHD",
+                            "size": 7
+                        },
+                        {
+                            "name": "提供",
+                            "size": 7
+                        },
+                        {
+                            "name": "影片",
+                            "size": 7
+                        },
+                        {
+                            "name": "工藝",
+                            "size": 7
+                        },
+                        {
+                            "name": "主鏡頭",
+                            "size": 7
+                        },
+                        {
+                            "name": "色溫",
+                            "size": 7
+                        },
+                        {
+                            "name": "場景",
+                            "size": 7
+                        },
+                        {
+                            "name": "重點",
+                            "size": 7
+                        }
+                    ]
+                },
+                {
+                    "name": "optimization",
+                    "children": [
+                        {
+                            "name": "支援",
+                            "size": 22
+                        },
+                        {
+                            "name": "夜景",
+                            "size": 19
+                        },
+                        {
+                            "name": "錄影",
+                            "size": 17
+                        },
+                        {
+                            "name": "設計",
+                            "size": 17
+                        },
+                        {
+                            "name": "規格",
+                            "size": 16
+                        },
+                        {
+                            "name": "NPU",
+                            "size": 6
+                        },
+                        {
+                            "name": "質感",
+                            "size": 6
+                        },
+                        {
+                            "name": "IMX",
+                            "size": 6
+                        },
+                        {
+                            "name": "搭載",
+                            "size": 6
+                        },
+                        {
+                            "name": "提升",
+                            "size": 6
+                        },
+                        {
+                            "name": "加持",
+                            "size": 6
+                        },
+                        {
+                            "name": "感覺",
+                            "size": 6
+                        },
+                        {
+                            "name": "景深",
+                            "size": 6
+                        },
+                        {
+                            "name": "環境",
+                            "size": 6
+                        },
+                        {
+                            "name": "漂亮",
+                            "size": 5
+                        },
+                        {
+                            "name": "顏色",
+                            "size": 5
+                        },
+                        {
+                            "name": "OIS",
+                            "size": 5
+                        },
+                        {
+                            "name": "穩",
+                            "size": 5
+                        },
+                        {
+                            "name": "認證",
+                            "size": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "display",
+            "children": [
+                {
+                    "name": "螢幕",
+                    "size": 31
+                },
+                {
+                    "name": "系列",
+                    "size": 24
+                },
+                {
+                    "name": "廣角",
+                    "size": 23
+                },
+                {
+                    "name": "需求",
+                    "size": 5
+                },
+                {
+                    "name": "游戲",
+                    "size": 5
+                },
+                {
+                    "name": "感光元件",
+                    "size": 5
+                },
+                {
+                    "name": "揚聲器",
+                    "size": 5
+                },
+                {
+                    "name": "誇張",
+                    "size": 5
+                },
+                {
+                    "name": "Sony",
+                    "size": 5
+                },
+                {
+                    "name": "微鏡頭",
+                    "size": 5
+                },
+                {
+                    "name": "聯發科",
+                    "size": 5
+                },
+                {
+                    "name": "高畫質",
+                    "size": 5
+                },
+                {
+                    "name": "成型",
+                    "size": 5
+                }
+            ]
+        },
+        {
+            "name": "physics",
+            "children": [
+                {
+                    "name": "GTNeo",
+                    "size": 42
+                },
+                {
+                    "name": "realme",
+                    "size": 36
+                },
+                {
+                    "name": "鏡頭",
+                    "size": 32
+                },
+                {
+                    "name": "效果",
+                    "size": 5
+                },
+                {
+                    "name": "檢視",
+                    "size": 5
+                },
+                {
+                    "name": "通話",
+                    "size": 5
+                },
+                {
+                    "name": "Note",
+                    "size": 5
+                },
+                {
+                    "name": "招牌",
+                    "size": 5
+                },
+                {
+                    "name": "夜拍",
+                    "size": 4
+                },
+                {
+                    "name": "價格",
+                    "size": 4
+                },
+                {
+                    "name": "MOLED",
+                    "size": 4
+                },
+                {
+                    "name": "配備",
+                    "size": 4
+                },
+                {
+                    "name": "設置",
+                    "size": 4
+                },
+                {
+                    "name": "具備",
+                    "size": 4
+                },
+                {
+                    "name": "指紋",
+                    "size": 4
+                },
+                {
+                    "name": "手感",
+                    "size": 4
+                },
+                {
+                    "name": "電池",
+                    "size": 4
+                },
+                {
+                    "name": "主相機",
+                    "size": 4
+                },
+                {
+                    "name": "品牌",
+                    "size": 4
+                },
+                {
+                    "name": "機身",
+                    "size": 4
+                },
+                {
+                    "name": "天空",
+                    "size": 4
+                },
+                {
+                    "name": "玻璃",
+                    "size": 4
+                },
+                {
+                    "name": "強度",
+                    "size": 4
+                },
+                {
+                    "name": "廣角端",
+                    "size": 4
+                },
+                {
+                    "name": "稍微",
+                    "size": 3
+                },
+                {
+                    "name": "消費",
+                    "size": 3
+                },
+                {
+                    "name": "閃充",
+                    "size": 3
+                },
+                {
+                    "name": "充電",
+                    "size": 3
+                },
+                {
+                    "name": "黑色",
+                    "size": 3
+                },
+                {
+                    "name": "厲害",
+                    "size": 3
+                },
+                {
+                    "name": "臺灣",
+                    "size": 3
+                },
+                {
+                    "name": "介面",
+                    "size": 3
+                },
+                {
+                    "name": "延續",
+                    "size": 3
+                },
+                {
+                    "name": "操作",
+                    "size": 3
+                },
+                {
+                    "name": "平面",
+                    "size": 3
+                },
+                {
+                    "name": "追劇",
+                    "size": 3
+                }
+            ]
+        }
+    ]
+}
